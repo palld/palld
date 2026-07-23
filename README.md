@@ -185,7 +185,7 @@ Currently, my focus is on strengthening my problem-solving skills through DSA wh
 
 ### ⭐ *"Code. Learn. Build. Repeat."*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=palld&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
