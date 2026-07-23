@@ -118,6 +118,10 @@ Currently, my focus is on strengthening my problem-solving skills through DSA wh
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
