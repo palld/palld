@@ -118,6 +118,11 @@ Currently, my focus is on strengthening my problem-solving skills through DSA wh
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/palld/palld/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 # 📌 Featured Projects
 
