@@ -95,9 +95,9 @@ Currently, my focus is on strengthening my problem-solving skills through DSA wh
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=palld&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=palld&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palld&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palld&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
 </p>
 
