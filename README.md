@@ -103,7 +103,7 @@ Currently, my focus is on strengthening my problem-solving skills through DSA wh
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=palldE&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=palld&theme=tokyonight&hide_border=true"/>
 
 </p>
 
